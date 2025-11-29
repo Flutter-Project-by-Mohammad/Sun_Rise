@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'package:test_12/moudel/WeatherAPI.dart';
+import 'package:test_12/Models/WeatherAPI.dart';
 
 class WeatherService {
   static const String _baseUrl = 'https://api.weatherstack.com/current';

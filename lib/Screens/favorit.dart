@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../widgets/FavoriteCityCard.dart';
+import '../Widgets/FavoriteCityCard.dart';
 
 class FavoritePage extends StatefulWidget {
   final List<Map<String, dynamic>> favoriteCities;

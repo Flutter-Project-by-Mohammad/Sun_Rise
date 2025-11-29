@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:test_12/Sevres/API.dart';
-import 'package:test_12/moudel/WeatherAPI.dart';
-import 'package:test_12/widgets/WeatherCard.dart';
+import 'package:test_12/Services/API.dart';
+import 'package:test_12/Models/WeatherAPI.dart';
+import 'package:test_12/Widgets/WeatherCard.dart';
 
 class WeatherPage extends StatefulWidget {
   final List<Map<String, dynamic>> favoriteCities;

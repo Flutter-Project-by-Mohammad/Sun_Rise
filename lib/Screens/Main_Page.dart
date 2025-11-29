@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:test_12/Sceens/Whether.dart';
-import 'package:test_12/Sceens/favorit.dart';
-import 'package:test_12/moudel/WeatherAPI.dart';
+import 'package:test_12/Screens/Whether.dart';
+import 'package:test_12/Screens/favorit.dart';
+import 'package:test_12/Models/WeatherAPI.dart';
 
 class MainPage extends StatefulWidget {
   const MainPage({super.key});
